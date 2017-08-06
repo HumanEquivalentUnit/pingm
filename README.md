@@ -2,6 +2,8 @@
 
    Sends continuous pings to computers, and draws an in-console view of the results
 
+    [[https://github.com/HumanEquivalentUnit/pingm/blob/master/example.gif|alt=Animated example run of pingm tool]]
+    
 ## Example
    Ping a local gateway, an internet host, and a remote machine over a VPN
    so that when you reboot the router, you can confirm it, WAN links and VPNs
